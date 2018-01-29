@@ -1,4 +1,4 @@
-descibe("Fizzbuzz", function() {
+describe("Fizzbuzz", function() {
   var fizzbuzz;
   describe("Know when a number is", function(){
     it("divisible by 3", function(){
