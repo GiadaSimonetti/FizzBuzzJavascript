@@ -1,0 +1,4 @@
+
+var Fizzbuzz = function(){
+
+};
